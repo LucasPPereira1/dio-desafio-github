@@ -1,0 +1,12 @@
+# O que aprendi até o momento
+
+- Utilizando "dir" consigo ver o que tem dentro das pastas onde estou.
+- Ao usar "cd" me direciona para dentro de um local.
+- Push é a função de "empurrar" os arquivos que fizemos em nosso local.
+- Para vincular nosso email e nome ao github pelo git se utiliza "Git config -- global user.email e git config --global user.name".
+- Utilizar "git commit -m" para iniciar o que foi feito no local.
+- O comando "mv" é para mover um arquivo para outra pasta. Ex: mv arquivo.md ./pasta/
+- Git add é para adicionar um arquivo para stage (estado). 
+- Git add * é para adicionar todos os arquivos para stage (estado).
+- Utilizar "echo >" para criar arquivos.
+- Para adicionar ao servidor do github o que foi criado "git remote add origin + link".
